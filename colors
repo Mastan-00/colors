@@ -1,0 +1,5 @@
+colors = ["red", "green", "blue", "yellow"]
+colors.sort()
+colors.append("orange")
+colors.reverse()
+print(colors)
